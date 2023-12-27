@@ -1,0 +1,1 @@
+Developed cutting-edge image-to-text model capable of generating descriptive narratives for real-world visual content.Leveraged pre-trained Inception V3 model as CNN encoder, extracting the ultimate hidden layer for embedding.	Employed extracted image features as initial state for RNN; crafted image captions using LSTM text generator.
